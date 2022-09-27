@@ -3,7 +3,7 @@
 ## Table of Contents
 * [Description](#description)
 * [Installation](#installation)
-* [Video Walkthrough](#video-walkthrough)
+* [Heroku Deployed Link](#heroku)
 * [GitHub](#github)
 
 <br/>
@@ -57,11 +57,13 @@ THEN I am logged out of the site and presented with a menu with the options Sear
 # Installation
 To run the application, please install necessary npm modules by running `npm i` in the command line. Once modules have been installed, run `npm run develop`, launch both client and server side 
 
-# Video Walkthrough
-[Video WalkThrough](https://drive.google.com/file/d/1kUnA_mVvck0vJFV4l_PgMUvhQFP6sk8k/view)
+# Heroku Deployed Link
+[Deployed Application](https://damp-oasis-42086.herokuapp.com/)
+
+
 
 # GitHub
-[GitHub Repo](https://github.com/ehliao/social-network-API)
+[GitHub Repo](https://github.com/ehliao/book-engine-search)
 <br/>
 [My GitHub Username](https://github.com/ehliao)
 
